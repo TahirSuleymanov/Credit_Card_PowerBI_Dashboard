@@ -81,5 +81,8 @@ Other measures: Total Transaction Amount, Transaction Count, Interest Earned, An
 
 All visuals respond to the Quarter, Card Type and Gender slicers.
 
----
-*Author: Tahir Suleymanov*
+## Author
+
+**Tahir Suleymanov**  
+Data Scientist  
+[LinkedIn](https://www.linkedin.com/in/tahirsuleymanov/)
